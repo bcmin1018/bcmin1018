@@ -1,5 +1,12 @@
 ### Hi there 👋
+I am currently working as an API and web backend developer. While pursuing my graduate studies, I have developed a keen interest in utilizing artificial intelligence for natural language processing.
+
+In my free time, I enjoy playing soccer and engaging in fitness activities interchangeably. 
+I have a strong interest in maintaining my physical well-being. 
+I believe that combining static development work with dynamic exercise can undoubtedly yield synergistic effects!
+
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<a href="https://techbrad.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-Tistory?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 <!--
 **bcmin1018/bcmin1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
